@@ -29,7 +29,7 @@ You can't. The QR bill by specification only supports IBANs from Switzerland and
 You can't. The QR bill by specification only supports CHF and EUR.
 
 * **How do I change translations to use my own wording?**<br>
-You can't. The translations are defined in the QR bill specification and are not meant to be changed by the user. See [this document](https://github.com/sprain/php-swiss-qr-bill/blob/master/docs/specs/style-guide-en.pdf), page 31.
+You can't. The translations are defined in the QR bill specification and are not meant to be changed by the user. See [this document](https://github.com/sprain/php-swiss-qr-bill/blob/master/docs/specs/style-guide-en-v1.1.pdf), page 31.
 
 * **How do I make my QR bills payable by Twint?**<br>
 See https://github.com/sprain/php-swiss-qr-bill/issues/129 
@@ -83,7 +83,7 @@ The repository contains the official specifications the library is based on:
 
 - [Swiss Implementation Guidelines QR-bill](docs/specs/ig-qr-bill-v2.3-en.pdf)
 - [Technical information about the QR-IID and QR-IBAN](docs/specs/qr-iid_qr-iban-en.pdf)
-- [Style Guide QR-bill](docs/specs/style-guide-en.pdf)
+- [Style Guide QR-bill](docs/specs/style-guide-en-v1.1.pdf)
 - [Validation Tool](https://validation.iso-payments.ch/gp/qrrechnung/validation/)
 
 For more official information see
